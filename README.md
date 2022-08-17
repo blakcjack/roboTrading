@@ -1,4 +1,4 @@
-# robotTrading
+# roboTrading
 
 This project contains all scripts to manage the trading automation process. Either one time or scheduled scripts will be placed here.
 
